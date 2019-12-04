@@ -1,0 +1,2 @@
+include ':MultiActivity', ':toastapp', ':dialog'
+rootProject.name='lab2_2'
